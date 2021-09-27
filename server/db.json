@@ -1,0 +1,64 @@
+{
+  "organizers": [
+    {
+      "id": 1,
+      "name": "Oscar",
+      "username": "Oso",
+      "email": "oscar@gmail.com",
+      "cellPhone": 948765154
+    },
+    {
+      "id": 2,
+      "name": "Gabriel",
+      "username": "Gabo",
+      "email": "gabriel@gmail.com",
+      "cellPhone": 958764254
+    },
+    {
+      "id": 3,
+      "name": "Adrian",
+      "username": "Adron",
+      "email": "adrian@gmail.com",
+      "cellPhone": 963854725
+    },
+    {
+      "id": 4,
+      "name": "Emanuel",
+      "username": "Emonuel",
+      "email": "emanuel@gmail.com",
+      "cellPhone": 975846259
+    }
+  ],
+  "tournaments": [
+    {
+      "id": 1,
+      "title": "CSGO: 1VS1 - Thursday",
+      "starDate": "21/10/2021",
+      "endDate": "21/10/2021",
+      "pricePool": 5,
+      "organizerId": 1,
+      "gameId": 2
+    },
+    {
+      "id": 2,
+      "title": "Dota 2: 1VS1 - Friday",
+      "starDate": "15/10/2021",
+      "endDate": "15/10/2021",
+      "pricePool": 10,
+      "organizerId": 2,
+      "gameId": 1
+    }
+  ],
+  "game": [
+    {
+      "id": 1,
+      "name": "Dota 2",
+      "category": "Cooperative"
+    },
+    {
+      "id": 2,
+      "name": "Counter Strike Global Offensive: CSGO",
+      "category": "Cooperative"
+    }
+  ]
+}
