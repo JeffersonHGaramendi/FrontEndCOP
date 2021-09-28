@@ -11,6 +11,15 @@ const routes = [
     component: Home
   },
   {
+    path: '/',
+    redirect: Home
+  },
+  {
+    path: '/tournaments',
+    name: 'tournaments',
+    component: () => import('@/tournaments/pages/tournaments')
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting

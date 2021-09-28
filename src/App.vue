@@ -8,7 +8,7 @@
       </v-app-bar-title>
       <v-spacer></v-spacer>
       <v-btn plain to="/home" color="white">Home</v-btn>
-      <v-btn plain to="/tutorials" color="white">Tournaments</v-btn>
+      <v-btn plain to="/tournaments" color="white">Tournaments</v-btn>
       <v-btn plain to="/about" color="white">Profile</v-btn>
     </v-app-bar>
     <v-main>

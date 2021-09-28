@@ -33,7 +33,8 @@
     {
       "id": 1,
       "title": "CSGO: 1VS1 - Thursday",
-      "starDate": "21/10/2021",
+      "description": "Compite con los mejores jugadores de CSGO.",
+      "startDate": "21/10/2021",
       "endDate": "21/10/2021",
       "pricePool": 5,
       "organizerId": 1,
@@ -42,14 +43,15 @@
     {
       "id": 2,
       "title": "Dota 2: 1VS1 - Friday",
-      "starDate": "15/10/2021",
+      "description": "Compite con los mejores jugadores de Dota 2.",
+      "startDate": "15/10/2021",
       "endDate": "15/10/2021",
       "pricePool": 10,
       "organizerId": 2,
       "gameId": 1
     }
   ],
-  "game": [
+  "games": [
     {
       "id": 1,
       "name": "Dota 2",
